@@ -120,7 +120,7 @@
             android:name=".item_data_produk"
             android:exported="false" />
         <activity
-            android:name=".model_produk"
+            android:name=".ModelProdukActivity"
             android:exported="false" />
         <activity
             android:name=".mod_kategori"

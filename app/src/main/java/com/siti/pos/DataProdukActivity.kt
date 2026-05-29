@@ -11,7 +11,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.siti.pos.databinding.ActivityDataProdukBinding
-import com.siti.pos.ModelProduk
+import com.siti.pos.ModelProdukActivity
 import produk.Produk
 import kotlin.jvm.java
 
@@ -130,7 +130,7 @@ class DataProdukActivity : AppCompatActivity() {
         }
 
         binding.fabTambah.setOnClickListener {
-            val intent = Intent(this, model_produk::class.java)
+            val intent = Intent(this, ModelProdukActivity::class.java)
             intent.putExtra("mode", "tambah")
             launcher.launch(intent)
         }
@@ -196,7 +196,7 @@ class DataProdukActivity : AppCompatActivity() {
     private fun bukaEdit(produk: Produk) {
 
         val intent =
-            Intent(this, ModelProduk::class.java).apply {
+            Intent(this, ModelProdukActivity::class.java).apply {
 
                 putExtra("mode", "edit")
                 putExtra("produk_id", produk.id)
