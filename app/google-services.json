@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283627580242",
+    "project_id": "kasir-78a13",
+    "storage_bucket": "kasir-78a13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283627580242:android:ef91ee8964b082c9b0288b",
+        "android_client_info": {
+          "package_name": "com.siti.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjpVpBfPeZWduKmn0YBm_kqUKNRgZ1aMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

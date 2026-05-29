@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_page">#0D0D0F</color>
+    <color name="bg_header">#111114</color>
+    <color name="bg_card">#111114</color>
+    <color name="bg_surface">#0D0D0F</color>
+    <color name="bg_banner">#1A1410</color>
+    <color name="bg_coksu">#111114</color>
+
+    <color name="text_primary">#F0EDE8</color>
+    <color name="text_secondary">#8A8580</color>
+    <color name="text_muted">#5A5550</color>
+    <color name="text_hint">#3A3A3E</color>
+
+    <color name="border_default">#1E1E22</color>
+    <color name="border_header">#2A2A2E</color>
+    <color name="border_banner">#2A2418</color>
+
+    <color name="accent_gold">#C9A96E</color>
+    <color name="accent_gold_bg">#1E1A0E</color>
+    <color name="accent_gold_border">#2E2510</color>
+
+    <color name="icon_sage">#6BAA78</color>
+    <color name="icon_sage_bg">#0E1510</color>
+    <color name="icon_sage_border">#182510</color>
+
+    <color name="icon_mist">#A0A090</color>
+    <color name="icon_mist_bg">#161614</color>
+    <color name="icon_mist_border">#222220</color>
+
+    <color name="icon_rose">#B07890</color>
+    <color name="icon_rose_bg">#180E10</color>
+    <color name="icon_rose_border">#281020</color>
+
+    <color name="icon_teal">#5AABB0</color>
+    <color name="icon_teal_bg">#0A1418</color>
+    <color name="icon_teal_border">#102228</color>
+
+    <color name="icon_slate">#6A9AB0</color>
+    <color name="icon_slate_bg">#0E1218</color>
+    <color name="icon_slate_border">#152030</color>
+
+    <color name="line_gold">#C9A96E</color>
+    <color name="line_sage">#6BAA78</color>
+    <color name="line_mist">#A0A090</color>
+    <color name="line_rose">#B07890</color>
+    <color name="line_teal">#5AABB0</color>
+    <color name="line_slate">#6A9AB0</color>
+
+        <!--status-->
+        <color name="status_active_bg">#E8F5E9</color>
+        <color name="status_active_text">#2E7D32</color>
+        <color name="status_inactive_bg">#FFEBEE</color>
+        <color name="status_inactive_text">#C62828</color>
+        <color name="green_light">#C8E6C9</color>
+        <color name="red_light">#FFCDD2</color>
+
+</resources>
